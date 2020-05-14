@@ -1,6 +1,6 @@
 ---
 title: अन्वेषक
-layout: default
+layout: template
 ---
 
 ## Welcome to another page
