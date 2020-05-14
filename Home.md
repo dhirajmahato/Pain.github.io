@@ -1,5 +1,10 @@
 ---
 title: अन्वेषक
+layout: default
 ---
 
-hello you are are!
+## Welcome to another page
+
+_yay_
+
+[back](./)
