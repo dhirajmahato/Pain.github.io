@@ -2,6 +2,7 @@
 layout: template
 title: Another page
 description: This is just another page
+filename: another page
 ---
 
 ## Welcome to another page
