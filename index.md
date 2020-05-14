@@ -1,6 +1,6 @@
 ---
 layout: default
-filename: index.md
+filename: index.html
 ---
 
 # i am dead
