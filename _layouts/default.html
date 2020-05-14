@@ -36,7 +36,7 @@
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
         {% for page in site.pages %}
-          <a href={{ page.filename }}>{{ page.title }}</a>
+          <a href="{{ page.filename }}" class="btn">{{ page.title }}</a>
           {% endfor %}
         {{ content }}
       </section>
