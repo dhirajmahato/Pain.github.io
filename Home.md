@@ -1,6 +1,3 @@
----
-title: अन्वेषक
----
 
 ## Welcome to another page
 
