@@ -3,10 +3,10 @@ layout: default
 filename: index.html
 ---
 
-# i am dead
+## i am dead
 [<img src="https://images.unsplash.com/photo-1504401774599-1b5378bfaae3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=674&q=80">](./another_page.html)
 > Let's eat and die
 
-# i am alive
+## i am alive
 
 
