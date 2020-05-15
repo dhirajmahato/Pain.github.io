@@ -1,12 +1,12 @@
 ---
 layout: template
-title: Another page
+title:I am alive
 description: This is just another page
-filename: another_page.html
+filename: alive.html
 ---
 
-## Welcome to another page
 
-_yay_
+
+
 
 [back](./)
