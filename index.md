@@ -5,7 +5,7 @@ filename: index.html
 ## एक कहानी और उनके कई पहलु
 
 ## i am dead
-[<img src="https://images.unsplash.com/photo-1504401774599-1b5378bfaae3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=674&q=80">](./another_page.html)
+[<img src="https://images.unsplash.com/photo-1504401774599-1b5378bfaae3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=674&q=80">](./Dead.html)
 > Let's eat and die
 
 ## i am alive
