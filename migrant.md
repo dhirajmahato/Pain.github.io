@@ -7,8 +7,7 @@ description: The endless journey of struggle
 ### Introduction:
 Migration : Distress or opportunity-oriented
 
-Labour migration within India is crucial for economic growth and contributes to improving the socio-economic condition of people. Migration can help, for example, to improve income, skill development, and provide greater access to services like healthcare and education.
-But it is not the only reason as most of the migration is for subsistence and survival and falls under the citatory of distress migration.
+Labour migration within India is crucial for economic growth and contributes to improving the socio-economic condition of people. Migration can help, for example, to improve income, skill development, and provide greater access to services like healthcare and education. But it is not the only reason as most of the migration is for subsistence and survival and falls under the citatory of distress migration.
 
 ### Stats:
 In 2012, there were around 487 million workers in India, Of these over 93% work in unincorporated, unorganised enterprises ranging from pushcart vendors to home-based diamond and gem polishing operations.
@@ -19,15 +18,16 @@ According to the Periodic Labour Force Survey (2017–18), 238 million workers w
 
 > The unorganised/informal sector refers to those enterprises whose activities or collection of data is not regulated under any legal provision or do not maintain any regular accounts
 
+![Image](https://img.etimg.com/photo/msid-73394740/gfx.jpg)
+
 ### Legislation Support:
 India’s labour legislations have been wedged into two definitional quagmires: worker and non-worker.
-
+- Contract Labour (Regulation and Abolition) Act (1970)
 - Inter-State Migrant Workmen (ISMW) Act, 1979.
 - Child Labour (Prohibition and Regulation) Act (1986)
 - Building and Other Construction Workers (Regulation of Employment and Conditions of Service) Act (1996)
 - Unorganised Workers Social Security Act, 2008
-- Contract Labour (Regulation and Abolition) Act (1970)
-
+- Code on Social Security, 2019
 
 ### Challenges: 
 
@@ -45,6 +45,8 @@ The major area of work they are engaged in would be agriculture labour, brick ki
 This entire workforce falls under the informal sector, which, of course, constitutes 93% of India’s total workforce. 
 
 ##### Categorization
+Unorganized sector or informal economy is replete with diverse concepts and lack of uniformity of definitions. 
+
 A non-workman category of employment has emerged in Indian labour laws that falls outside the purview of labour legislation, and the majority of them are informal workers without any collective bargaining power.
 
 National Sample Survey Office (NSSO) as well as the census fail to capture the short-term seasonal movements.
@@ -59,6 +61,10 @@ The lockdown has not only inflicted incorrigible damages on the working lives of
 A soft law approach has been executed through an advisory from Ministry of Labour and Employment on 20 March 2020 requiring all employers/establishments not to terminate employees and not to cut wages of the workers, including contract and temporary workers : under the category of regular wage/salary employment i.e organised sector.
 
 Also Central government has used the power conferred under Section 10(2)(1) of the Disaster Management Act (DMA), 2005 to order all employers to make payment of wages.
+
+National Disaster Management Authority (NDMA) has developed an online dashboard called ‘National Migrant Information System (NMIS). It would maintain a central repository of migrant workers and help in speedy inter-state communication to facilitate the smooth movement of migrant workers to their native places.
+
+Collectivisation and unionisation of workers would be critical enablers of stability and solidarity that would alone lessen economic hardship of workers in the post-lockdown period.
 
 > The fundamental challenge is regarding the reorganisation of the economy that would eliminate the possibility of distress migration. 
 
@@ -77,5 +83,6 @@ Also Central government has used the power conferred under Section 10(2)(1) of t
 2. (https://www.epw.in/journal/2020/19/commentary/saving-jobs-and-averting-lay-offs-amidst-covid-19.html)
 3. (https://www.epw.in/journal/2020/19/commentary/migration-and-reverse-migration-age-covid-19.html)
 4. (https://www.thehindu.com/news/national/other-states/the-nowhere-people-of-covid-19-need-better-legal-safeguards/article31400344.ece)
+5. (https://economictimes.indiatimes.com/news/economy/indicators/national-database-of-workers-in-informal-sector-in-the-works/articleshow/73394732.cms?from=mdr)
 
 [back](./)
