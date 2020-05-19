@@ -42,7 +42,13 @@ Due to young male population out-migrating, increasingly characterised by the **
 
 The major area of work they are engaged in would be agriculture labour, brick kilns, construction sites, services (maids to watchmen to drivers) industrial non-skilled workers, small and tiny road side businesses (tea shops, dhabas, small eateries, hotels, restaurants, etc). 
 
-This entire workforce falls under the informal sector, which, of course, constitutes 93% of India’s total workforce. 
+- This entire workforce falls under the informal sector, which, of course, constitutes 93% of India’s total workforce. 
+- Migrants lack political agency vis-a-vis the local government machinery. As the political class ignores migrant workers because they don’t count as votes.
+- Due to their mobile nature, they don’t find any place in the manifestos of trade unions.
+- Lakhs of unskilled and migrant workers live on worksites in makeshift huts (usually made of tin sheets) or on roads, slums and in illegal settlements not served by municipalities.
+- Because of limiting job opportunities migrants are becoming victims of resentment, as people of the state see them as encroachers of present jobs.
+- Very few migrants are aware of their entitlements, legal and economic. They often faces issues like non-payment of wages, physical abuse, and accidents.
+- They have poor access to health and education services, which results in very poor occupational health and education.
 
 ##### Categorization
 Unorganized sector or informal economy is replete with diverse concepts and lack of uniformity of definitions. 
@@ -78,7 +84,7 @@ Collectivisation and unionisation of workers would be critical enablers of stabi
 - The report of the second National Commission on Labour recommends that the Mathadi model can be adopted for the unorganised sector all over India.The report also urges the codification of existing labour laws based on the Draft Indian Labour Code prepared in 1994 by the National Labour Law Association.
 
 
-### References
+#### References:
 1. (https://censusindia.gov.in/Census_And_You/economic_activity.aspx)
 2. (https://www.epw.in/journal/2020/19/commentary/saving-jobs-and-averting-lay-offs-amidst-covid-19.html)
 3. (https://www.epw.in/journal/2020/19/commentary/migration-and-reverse-migration-age-covid-19.html)
