@@ -3,10 +3,10 @@ layout: template
 title: Indian Migrant Workers
 description: The endless journey of struggle
 ---
-> डर मुझे भी लगा फासला देख कर,
+> **डर मुझे भी लगा फासला देख कर,
 > पर मैं बढ़ता गया रास्ता देख कर,
 > खुद ब खुद मेरे नजदीक आती गई,
-> मेरी मंजिल मेरा हौंसला देख कर 
+> मेरी मंजिल मेरा हौंसला देख कर**
 
 ### Introduction:
 Migration : Distress or opportunity-oriented
