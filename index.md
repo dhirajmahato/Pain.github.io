@@ -9,7 +9,7 @@ filename: index.html
 > The endless journey of struggle.
 
 ## I am a Farmer
-[<img src="https://www.bestwebsiteinindia.com/blog/wp-content/uploads/2018/10/argBg.jpg">](./alive.html)
+[<img src="http://bbf.digital/wp-content/uploads/2017/04/MG_8391-bfcd8427b1-1440x564_c.jpg">](./alive.html)
 > I feed Nation.
 
 ## I am dead
