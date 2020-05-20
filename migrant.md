@@ -3,6 +3,10 @@ layout: template
 title: Indian Migrant Workers
 description: The endless journey of struggle
 ---
+> डर मुझे भी लगा फासला देख कर,
+> पर मैं बढ़ता गया रास्ता देख कर,
+> खुद ब खुद मेरे नजदीक आती गई,
+> मेरी मंजिल मेरा हौंसला देख कर 
 
 ### Introduction:
 Migration : Distress or opportunity-oriented
@@ -63,7 +67,7 @@ The casual wage labourers in both farm and non-farm enterprises are not covered 
 ##### Covid19 
 The lockdown has not only inflicted incorrigible damages on the working lives of migrant, informal and precarious workers, but has induced a slump in activities of all sectors, from production to distribution to consumption. As India’s nationwide lockdown will be lifted,the uncertainly of livelihood, wage loss and lay-offs is likely to linge.
 
-######
+##### Measures
 A soft law approach has been executed through an advisory from Ministry of Labour and Employment on 20 March 2020 requiring all employers/establishments not to terminate employees and not to cut wages of the workers, including contract and temporary workers : under the category of regular wage/salary employment i.e organised sector.
 
 Also Central government has used the power conferred under Section 10(2)(1) of the Disaster Management Act (DMA), 2005 to order all employers to make payment of wages.
