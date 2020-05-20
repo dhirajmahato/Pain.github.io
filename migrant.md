@@ -18,10 +18,10 @@ According to the Periodic Labour Force Survey (2017–18), 238 million workers w
 
 > The unorganised/informal sector refers to those enterprises whose activities or collection of data is not regulated under any legal provision or do not maintain any regular accounts
 
-![Image](https://img.etimg.com/photo/msid-73394740/gfx.jpg)![Image](https://www.drishtiias.com/images/uploads/1589285653_pasted%20image%200.png)
+![Image](https://img.etimg.com/photo/msid-73394740/gfx.jpg)
 
 ### Legislation Support:
-India’s labour legislations have been wedged into two definitional quagmires: worker and non-worker.
+India’s labour legislations have been wedged into two definitional quagmires: worker and non-worker.<img align="right" width="100" height="250" src="https://www.drishtiias.com/images/uploads/1589285653_pasted%20image%200.png">
 - Contract Labour (Regulation and Abolition) Act (1970)
 - Inter-State Migrant Workmen (ISMW) Act, 1979.
 - Child Labour (Prohibition and Regulation) Act (1986)
