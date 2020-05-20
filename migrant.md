@@ -18,7 +18,7 @@ According to the Periodic Labour Force Survey (2017–18), 238 million workers w
 
 > The unorganised/informal sector refers to those enterprises whose activities or collection of data is not regulated under any legal provision or do not maintain any regular accounts
 
-![Image](https://img.etimg.com/photo/msid-73394740/gfx.jpg)![Image](https://www.drishtiias.com/images/uploads/1589285653_pasted%20image%200.png)
+![Image]("https://img.etimg.com/photo/msid-73394740/gfx.jpg" width="400" height="400")![Image](https://www.drishtiias.com/images/uploads/1589285653_pasted%20image%200.png)
 
 ### Legislation Support:
 India’s labour legislations have been wedged into two definitional quagmires: worker and non-worker.
@@ -36,7 +36,7 @@ Failed development contributes to the continuation of poor resource bases and as
 
 Also,Migration is not a reflection of failed agricultural policy alone. It can be viewed as a risk diversification strategy, and the remittances do contribute a share in household incomes.
 
-Due to young male population out-migrating, increasingly characterised by the **feminisation of agriculture**, distress-induced participation of women.
+Due to young male population out-migrating, increasingly characterised by the feminisation of agriculture, distress-induced participation of women.
 
 ##### In Cities
 
