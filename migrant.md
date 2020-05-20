@@ -20,8 +20,8 @@ According to the Periodic Labour Force Survey (2017–18), 238 million workers w
 
 ![Image](https://img.etimg.com/photo/msid-73394740/gfx.jpg)
 
-### Legislation Support:
-India’s labour legislations have been wedged into two definitional quagmires: worker and non-worker.<img align="right" width="100" height="250" src="https://www.drishtiias.com/images/uploads/1589285653_pasted%20image%200.png">
+### Legislation Support:<img align="right" width="150" height="270" src="https://www.drishtiias.com/images/uploads/1589285653_pasted%20image%200.png">
+India’s labour legislations have been wedged into two definitional quagmires: worker and non-worker.
 - Contract Labour (Regulation and Abolition) Act (1970)
 - Inter-State Migrant Workmen (ISMW) Act, 1979.
 - Child Labour (Prohibition and Regulation) Act (1986)
