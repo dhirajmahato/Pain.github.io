@@ -99,3 +99,6 @@ Collectivisation and unionisation of workers would be critical enablers of stabi
 6. (https://www.thehindu.com/opinion/editorial/contempt-for-labour-the-hindu-editorial-on-dilution-of-labour-laws/article31538103.ece)
 
 [back](./)
+
+[Tweet](https://twitter.com/share?ref_src=twsrc%5Etfw)
+https://www.pinclipart.com/picdir/big/105-1054095_follow-us-on-twitter-app-logo-png-transparent.png
