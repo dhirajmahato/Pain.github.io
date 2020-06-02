@@ -98,9 +98,8 @@ Collectivisation and unionisation of workers would be critical enablers of stabi
 5. (https://economictimes.indiatimes.com/news/economy/indicators/national-database-of-workers-in-informal-sector-in-the-works/articleshow/73394732.cms?from=mdr)
 6. (https://www.thehindu.com/opinion/editorial/contempt-for-labour-the-hindu-editorial-on-dilution-of-labour-laws/article31538103.ece)
 
-[back](./)
+[<img src="https://static.thenounproject.com/png/1991936-200.png" width="40" height="40" align="left">](./)
 
-
-[<img src="https://www.pinclipart.com/picdir/big/105-1054095_follow-us-on-twitter-app-logo-png-transparent.png" width="30" height="30">](https://twitter.com/share?ref_src=twsrc%5Etfw)
+[<img src="https://www.pinclipart.com/picdir/big/105-1054095_follow-us-on-twitter-app-logo-png-transparent.png" width="30" height="30" align="right">](https://twitter.com/share?ref_src=twsrc%5Etfw)
 
 
