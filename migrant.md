@@ -100,5 +100,7 @@ Collectivisation and unionisation of workers would be critical enablers of stabi
 
 [back](./)
 
-[Tweet](https://twitter.com/share?ref_src=twsrc%5Etfw)
-https://www.pinclipart.com/picdir/big/105-1054095_follow-us-on-twitter-app-logo-png-transparent.png
+
+[<img src="https://www.pinclipart.com/picdir/big/105-1054095_follow-us-on-twitter-app-logo-png-transparent.png" width="30" height="30">](https://twitter.com/share?ref_src=twsrc%5Etfw)
+
+
