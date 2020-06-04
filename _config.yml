@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: अन्वेषक
 description: Somewhere, something incredible is waiting to be known.
+baseurl: ""
+url: "https://dhirajmahato.github.io"
